@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Links
+permalink: /Links/
 ---
 
-[Fortnite][Link] 
+[Fortnite][Link1] 
 
-[Link]: https://www.epicgames.com/site/en-US/home
+[The Useless Web][Link2] 
 
-[The Useless Web][Link] 
+[MINECRAFT][Link3] 
 
-[Link]: http://www.theuselessweb.com
 
-[MINECRAFT][Link] 
 
-[Link]: http://www.minecraft.net
 
+[Link1]: https://www.epicgames.com/site/en-US/home
+[Link2]: http://www.theuselessweb.com
+[Link3]: http://www.minecraft.net
