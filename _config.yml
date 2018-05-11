@@ -16,9 +16,7 @@
 title: Nick's Page
 email: nicholas.laugharn@warriorlife.net
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Hooman. Dog is my favorite person.  You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Hooman. Dog is my favorite person.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dabonthehaters12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
