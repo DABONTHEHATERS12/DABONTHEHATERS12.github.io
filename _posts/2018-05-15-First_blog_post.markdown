@@ -8,6 +8,6 @@ author: DABONTHEHATERS12
 
 When I was in 7th grade, I took a intro to programming class. There I made a website. Here it is.
 
-[Project Website] [url]
+[My Website] [url]
 
 [url]: /website/
